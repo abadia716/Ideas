@@ -1,0 +1,41 @@
+Tema 1: Fundamentos de TensorFlow
+
+Introducción a TensorFlow
+Estructura de un grafo computacional
+Variables y constantes
+Operaciones y tensores
+Tipos de datos
+Sesiones
+Tema 2: Modelos lineales y no lineales
+
+Regresión lineal
+Regresión logística
+Perceptrón
+Redes neuronales artificiales
+Tema 3: Redes neuronales convolucionales (CNN)
+
+Introducción a las CNN
+Arquitectura de una CNN
+Funciones de activación
+Capas de convolución
+Capas de pooling
+Capas totalmente conectadas
+Entrenamiento de una CNN
+Tema 4: Redes neuronales recurrentes (RNN)
+
+Introducción a las RNN
+Arquitectura de una RNN
+LSTM y GRU
+Entrenamiento de una RNN
+Tema 5: Modelos avanzados
+
+Autoencoders
+Redes neuronales generativas (GAN)
+Transferencia de aprendizaje
+Modelos de lenguaje natural (NLP)
+Ejercicios propios que podrías desarrollar incluyen:
+
+Implementar una red neuronal que pueda predecir el precio de una casa en base a sus características (ubicación, tamaño, número de habitaciones, etc.).
+Crear una CNN para clasificar imágenes de perros y gatos.
+Entrenar una RNN para generar texto en base a un conjunto de datos de texto existente.
+Crear un modelo de NLP que pueda responder preguntas de manera automática.
